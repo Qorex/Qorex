@@ -16,12 +16,13 @@
 - javascript
 
 #### Back End
+- Go
 - Python
 - Php
-- Java
+- NodeJs
 - CSharp
 
 #### Mobile
 - Kotlin
 - Flutter
-- Go
+- Java
